@@ -1,0 +1,42 @@
+{
+    "invoice": {
+        "number": "12345",
+        "date": "16 June 2025",
+        "billed_to": {
+            "name": "Imani Olowe",
+            "address": "63 Ivy Road, Hawkville, GA, USA 31036",
+            "phone": "+123-456-7890"
+        },
+        "items": [
+            {
+                "item": "Eggshell Camisole Top",
+                "quantity": 1,
+                "unit_price": 123,
+                "total": 123
+            },
+            {
+                "item": "Cuban Collar Shirt",
+                "quantity": 2,
+                "unit_price": 127,
+                "total": 254
+            },
+            {
+                "item": "Floral Cotton Dress",
+                "quantity": 1,
+                "unit_price": 123,
+                "total": 123
+            }
+        ],
+        "subtotal": 500,
+        "tax": 0,
+        "total": 500,
+        "payment_information": {
+            "bank": "Briard Bank",
+            "account_name": "Samira Hadid",
+            "account_number": "123-456-7890",
+            "pay_by": "5 July 2025",
+            "payee": "Samira Hadid",
+            "payee_address": "123 Anywhere St., Any City, ST 12345"
+        }
+    }
+}
